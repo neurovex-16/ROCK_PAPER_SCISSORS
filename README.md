@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rock Paper Scissors Game
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
@@ -31,6 +30,3 @@ Rock-Paper-Scissors/
     ├── rock.png
     ├── paper.png
     └── scissors.png
-=======
-# ROCK_PAPER_SCISSORS
->>>>>>> c1e848b3c80e63fb57c161c27daefe8e1d753a46
