@@ -2,6 +2,9 @@
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
+## Live Demo
+[Play the Game](https://neurovex-16.github.io/ROCK_PAPER_SCISSORS/)
+
 ## Features
 
 - Interactive UI
